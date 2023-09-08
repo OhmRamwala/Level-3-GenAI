@@ -1,5 +1,5 @@
 # GSP038
->🚨 [PLEASE SUBSCRIBE OUR CHANNEL CLOUDHUSTLER](https://www.youtube.com/@cloudhustlers) **&** [JOIN OUR COMMUNITY](https://chat.whatsapp.com/KBfUcSleGGEFf2Xvvm8FW3)
+
 ## CREATE AN API_KEY > APIs & Services > Credentials > Create Credentials > API key
 ## Run in cloudshell 
 ```cmd
